@@ -1,0 +1,5 @@
+a = int(input("E"))
+b = int(input("E"))
+print(a+b)
+print(a-b)
+print(a*b)
